@@ -1,0 +1,13 @@
+0760949 HEAD@{0}: commit (merge): Master and task1 merge comflict resolved
+36908fd HEAD@{1}: checkout: moving from task1 to master
+21d1034 HEAD@{2}: checkout: moving from master to task1
+36908fd HEAD@{3}: checkout: moving from task1 to master
+21d1034 HEAD@{4}: commit: changed hello.txt in task1
+883c0bf HEAD@{5}: checkout: moving from master to task1
+36908fd HEAD@{6}: commit: changed hello.txt
+883c0bf HEAD@{7}: merge task1: Fast-forward
+b6c51ca HEAD@{8}: checkout: moving from task1 to master
+883c0bf HEAD@{9}: commit: Added task1-file.txt
+b6c51ca HEAD@{10}: checkout: moving from master to task1
+b6c51ca HEAD@{11}: commit: Added hello.txt
+8b302eb HEAD@{12}: commit (initial): Added .gitignore, readme.md
